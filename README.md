@@ -195,4 +195,4 @@ This repository serves as the official landing page for Myrmidon. The software i
 **Get the most recent version of Myrmidon today!**
 
 ---
-**Last updated:** 2026-11-12 21:10:47 UTC
+**Last updated:** 2026-11-13 02:12:04 UTC
